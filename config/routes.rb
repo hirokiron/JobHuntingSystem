@@ -1,3 +1,10 @@
 Rails.application.routes.draw do
-  # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
+  root   'static_pages#home'
+  get    '/login_for_college',            to: 'colleges#new'
+  get    '/login_for_company',            to: 'companies#new'
+  get    '/login_for_student',            to: 'students#new'
+  resources :colleges
+  resources :companies
+  resources :students
+  resources :jobs
 end
