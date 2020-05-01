@@ -1,24 +1,8 @@
-# README
+全体内容の把握、ER図の作成
+Dockerの設定にてスタック
+bitbucketではなくgitでの提出
+など、本課題以前のスキル不足にてほぼ手付かずの状態で不甲斐ないところであります。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ER図にて本来成し遂げたかった構想より、意図を汲み取って頂けると幸いです。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ドキュメントにて詳細の記載をさせて頂きます。
